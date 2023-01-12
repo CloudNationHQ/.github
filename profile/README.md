@@ -6,4 +6,9 @@ CloudNation brings public cloud knowledge, skill and experience to companies in 
 
 We support multiple platforms and related tooling. This results in full transparency and independent cloud advisory for all of our clients. We are continuously on top of new developments and have multiple certifications in Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) and Oracle Cloud Infrastructure (OCI).
 
-Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
+Visit [www.cloudnation.nl](https://www.cloudnation.nl/) to learn more about Cloudnation!
+
+----
+[Linkedin:](https://www.linkedin.com/company/cloudnation-nl/)
+[Email:](info@cloudnation.nl)
+[Phone:](+31648016896)
