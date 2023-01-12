@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+
 <!--
 
 **Here are some ideas to get you started:**
