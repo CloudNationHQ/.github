@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Open Source at Microsoft](https://github.com/microsoft/.github/blob/main/images/open-at-microsoft.png) 
+![Cloudnation Netherlands](https://github.com/CloudnationNetherlands/.github/blob/main/images/CN_Logo_Color_Black_rgb.png) 
 
 <!--
 
