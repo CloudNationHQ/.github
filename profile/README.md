@@ -1,14 +1,7 @@
-## Hi there 👋
-
 ![Cloudnation Netherlands](https://github.com/CloudnationNetherlands/.github/blob/main/images/CN_Logo_Color_Black_rgb.png) 
 
-<!--
+## CloudNation
 
-**Here are some ideas to get you started:**
+CloudNation brings public cloud knowledge, skill and experience to companies in order to accelerate IT transformations. We enable, empower and deliver successful cloud solutions, while focussing on people and process.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We support multiple platforms and related tooling. This results in full transparency and independent cloud advisory for all of our clients. We are continuously on top of new developments and have multiple certifications in Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP) and Oracle Cloud Infrastructure (OCI).
