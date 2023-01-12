@@ -9,8 +9,8 @@ We support multiple platforms and related tooling. This results in full transpar
 Visit [www.cloudnation.nl](https://www.cloudnation.nl/) to learn more about Cloudnation!
 
 ----
-[Linkedin](https://www.linkedin.com/company/cloudnation-nl/)
+LinkedIn: https://www.linkedin.com/company/cloudnation-nl/
 
-[Email:] info@cloudnation.nl
+Email: info@cloudnation.nl
 
-[Phone:] +31648016896
+Phone: +31648016896
